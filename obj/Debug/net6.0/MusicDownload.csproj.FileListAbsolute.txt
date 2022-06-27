@@ -1,0 +1,15 @@
+E:\c#\MusicDownload\bin\Debug\net6.0\MusicDownload.exe
+E:\c#\MusicDownload\bin\Debug\net6.0\MusicDownload.deps.json
+E:\c#\MusicDownload\bin\Debug\net6.0\MusicDownload.runtimeconfig.json
+E:\c#\MusicDownload\bin\Debug\net6.0\MusicDownload.dll
+E:\c#\MusicDownload\bin\Debug\net6.0\MusicDownload.pdb
+E:\c#\MusicDownload\obj\Debug\net6.0\MusicDownload.csproj.AssemblyReference.cache
+E:\c#\MusicDownload\obj\Debug\net6.0\MusicDownload.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\MusicDownload\obj\Debug\net6.0\MusicDownload.AssemblyInfoInputs.cache
+E:\c#\MusicDownload\obj\Debug\net6.0\MusicDownload.AssemblyInfo.cs
+E:\c#\MusicDownload\obj\Debug\net6.0\MusicDownload.csproj.CoreCompileInputs.cache
+E:\c#\MusicDownload\obj\Debug\net6.0\MusicDownload.dll
+E:\c#\MusicDownload\obj\Debug\net6.0\refint\MusicDownload.dll
+E:\c#\MusicDownload\obj\Debug\net6.0\MusicDownload.pdb
+E:\c#\MusicDownload\obj\Debug\net6.0\MusicDownload.genruntimeconfig.cache
+E:\c#\MusicDownload\obj\Debug\net6.0\ref\MusicDownload.dll
